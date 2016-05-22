@@ -1,4 +1,4 @@
-<php
+<?php
 namespace swagboy\ArmorPerWorld
 
 use pocketmine\event\Listener;
